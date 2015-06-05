@@ -1,0 +1,230 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 1363
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 111
+	Country: Unknown ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 6
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 14
+	Date: 2015-05-08 ; Times: 8
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 9
+	Date: 2015-05-13 ; Times: 12
+	Date: 2015-05-14 ; Times: 3
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 3
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 6
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-21 ; Times: 5
+	Date: 2015-05-22 ; Times: 23
+	Date: 2015-05-23 ; Times: 5
+	Date: 2015-05-24 ; Times: 2
+	Date: 2015-05-25 ; Times: 7
+	Date: 2015-05-26 ; Times: 12
+	Date: 2015-05-27 ; Times: 13
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-30 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eleutherodactylus cerasinus" ; Times: 1
+	Query: "university of michigan" ; Times: 4
+	Query: "Rana palustris distance(location,geopoint(34.56689376389315,-82.001953125))<61229" ; Times: 4
+	Query: "Montour Eurycea longicauda stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Wisconsin" genus:Ambystoma" ; Times: 2
+	Query: "10270" ; Times: 1
+	Query: "cumv 9885" ; Times: 1
+	Query: "stateprovince:"Michigan"" ; Times: 1
+	Query: "Rana type:specimen country:"Brazil"" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "bufo holdridgei" ; Times: 2
+	Query: ""Archbold Biological Station" type:specimen class:Amphibia" ; Times: 1
+	Query: "intermontana" ; Times: 1
+	Query: "catalognumber:829 institutioncode:CUMV" ; Times: 3
+	Query: "atelopus senex" ; Times: 4
+	Query: "cumv" ; Times: 1
+	Query: "hyla squirella" ; Times: 2
+	Query: "family:Hyperoliidae country:"Gabon" institutioncode:CUMV" ; Times: 3
+	Query: "11092" ; Times: 1
+	Query: "atelopus costa rica" ; Times: 1
+	Query: "(mclean county)" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "agalychnis annae" ; Times: 1
+	Query: "county:"Mason" stateprovince:"Washington" genus:ambystoma class:Amphibia" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.72024392588885,-82.3919677734375))<46308.89841014607" ; Times: 5
+	Query: "Leptodactylus stateprovince:"Texas"" ; Times: 4
+	Query: "Rana palustris distance(location,geopoint(34.345854954242554,-81.84814453125))<100000" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 8
+	Query: "Gyrinophilus palleucus" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+	Query: "Eurycea longicauda and Ohio" ; Times: 1
+	Query: "CUMV 2679" ; Times: 1
+	Query: ""Phyllobates lugubris"" ; Times: 1
+	Query: "Phrynobatrachus auritus" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.79929502577762,-82.81768798828125))<100000" ; Times: 1
+	Query: "stateprovince:"North Carolina" specificepithet:cinereus genus:Plethodon" ; Times: 1
+	Query: "genus:desmognathus distance(location,geopoint(35.75710002855482,-82.2330093383789))<18854" ; Times: 1
+	Query: "genus:desmognathus distance(location,geopoint(35.75710002855482,-82.2330093383789))<10790" ; Times: 1
+	Query: "genus:desmognathus distance(location,geopoint(35.75710002855482,-82.2330093383789))<21544" ; Times: 1
+	Query: "Batrachoseps major" ; Times: 6
+	Query: "field museum reptiles" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Eurycea longicauda stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Eurycea longicauda county:"Schuyler" stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "CUMV 2096" ; Times: 1
+	Query: "type:specimen country:"Gabon" class:Amphibia institutioncode:CUMV" ; Times: 3
+	Query: "bufo alvarius" ; Times: 18
+	Query: "hyla crucifer" ; Times: 2
+	Query: "eleutherodactylus cooki" ; Times: 2
+	Query: "tadpoles" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 5
+	Query: "Eleutherodactylus ranoides" ; Times: 2
+	Query: "Tompkins" ; Times: 3
+	Query: "Phyllomedusa lemur" ; Times: 2
+	Query: "county:"mason" stateprovince:"washington" genus:ambystoma" ; Times: 1
+	Query: "rana pipiens wyoming" ; Times: 2
+	Query: "stateprovince:"Pennsylvania" genus:Cryptobranchus" ; Times: 2
+	Query: "snakes panama" ; Times: 2
+	Query: "rana vibicaria" ; Times: 3
+	Query: "Ensatina county:"San Bernardino" stateprovince:"California" country:"United"" ; Times: 1
+	Query: "cryptobranchus new york" ; Times: 1
+	Query: "type:specimen country:"Gabon" class:Amphibia" ; Times: 1
+	Query: "bufo boreas distance(location,geopoint(43.93165932468228,-111.6914051771164))<100000" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "Tennessee" ; Times: 1
+	Query: "distance(location,geopoint(34.70850402882121,-82.85888671875))<48225" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 5
+	Query: "catalognumber:9296 institutioncode:CUMV" ; Times: 1
+	Query: "Koster" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 976 download events in this period)
+Total number of records downloaded: 3870 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3298
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-07 ; Times: 7
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 9
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 11
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.56689376389315,-82.001953125))<61229" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Hyla cadaverina mappable:1" ; Times: 1
+	Query: "discoglossus" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"washington"" ; Times: 1
+	Query: "family:Hyperoliidae country:"Gabon" institutioncode:CUMV" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.72024392588885,-82.3919677734375))<46308.89841014607" ; Times: 1
+	Query: "rana sphenocephala" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Plethodon nettingi" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: ""hyla eximia" mappable:1" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "ambystoma mavortium" ; Times: 1
+	Query: "Pseudacris regilla country:"Mexico"" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Phrynobatrachus auritus" ; Times: 1
+	Query: "Desmognathus stateprovince:"Mississippi"" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Ensatina mappable:1" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Hyla arenicolor mappable:1" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "bufo boreas Utah type:specimen" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "alytes" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:amphibia" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "(alytes OR discoglossus)" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 548
+Total number of records retrieved from searches: 6335
+Number of download events that retrieved data from the resource: 154
+Total number of records downloaded: 26837
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 634
+Total number of records retrieved from searches: 7172
+Number of download events that retrieved data from the resource: 349
+Total number of records downloaded: 40926
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
