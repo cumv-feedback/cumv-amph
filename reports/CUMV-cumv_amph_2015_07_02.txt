@@ -1,0 +1,286 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1621
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Puerto Rico ; Times: 6
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 118
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 8
+	Date: 2015-06-03 ; Times: 18
+	Date: 2015-06-04 ; Times: 6
+	Date: 2015-06-05 ; Times: 6
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 11
+	Date: 2015-06-08 ; Times: 13
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 5
+	Date: 2015-06-11 ; Times: 9
+	Date: 2015-06-12 ; Times: 10
+	Date: 2015-06-13 ; Times: 6
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 9
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-20 ; Times: 5
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-23 ; Times: 6
+	Date: 2015-06-24 ; Times: 2
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 6
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Tennessee" specificepithet:porphyriticus genus:Gyrinophilus" ; Times: 1
+	Query: "Lizards" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:sylvatica genus:rana" ; Times: 1
+	Query: "Bufonidae (guanacaste)" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "Bufonidae (holdridgei)" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "eleutherodactylus polyptychus" ; Times: 1
+	Query: "cornell" ; Times: 1
+	Query: "country:"United States" specificepithet:debilis tissue:1" ; Times: 2
+	Query: "Ambystoma opacum stateprovince:"Georgia" country:"United States"" ; Times: 2
+	Query: "Herp stateprovince:"PENNSYLVANIA" country:"United States"" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "stateprovince:"arkansas" tissue:1" ; Times: 1
+	Query: "puerto rico" ; Times: 6
+	Query: "county:"Macon" stateprovince:"Illinois" year <= 2015" ; Times: 1
+	Query: "alvarius institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "melanostictus Borneo" ; Times: 3
+	Query: "kansas university" ; Times: 2
+	Query: "distance(location,geopoint(55.99019044209386,160.224609375))<100000" ; Times: 1
+	Query: "stateprovince:"PENNSYLVANIA" country:"United States" (Herp or reptile or amphibian)" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 2
+	Query: "gyrinophilus pennsylvania mappable:1" ; Times: 2
+	Query: "phyllobates lugubris" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"Florida" country:"United States"" ; Times: 1
+	Query: "Desmognathus auriculatus stateprovince:"Georgia" country:"United States"" ; Times: 2
+	Query: "county:"Macon" stateprovince:"Illinois" class:amphibia year <= 2015 distance(location,geopoint(39.9542167636185,-88.96728515625))<54309" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:amphibia tissue:1" ; Times: 1
+	Query: "eurycea quadridigitata" ; Times: 1
+	Query: "rana dry institutioncode:cumv" ; Times: 1
+	Query: "eleutherodactylus podiciferus" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:maculosus genus:necturus" ; Times: 2
+	Query: "stejnegerianus" ; Times: 2
+	Query: "ambystoma mabeei" ; Times: 1
+	Query: "cryptobranchus port allegheny" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 2
+	Query: "cryptobranchus wolf run" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.574730978806656,-82.45166033506393))<68784" ; Times: 4
+	Query: "lebanon" ; Times: 1
+	Query: "cryptobranchus pennsylvania allegheny" ; Times: 1
+	Query: "waco texas snakes" ; Times: 2
+	Query: "Taricha torosa Mexico" ; Times: 2
+	Query: "Eurycea longicauda new york" ; Times: 1
+	Query: "Plethodon cinereus type:specimen stateprovince:"New York" year >= 1950 year <= 2000" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "Thamnophis sauritus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Ensatina county:"Tulare" stateprovince:"California"" ; Times: 1
+	Query: "Taricha county:"Tulare" stateprovince:"California"" ; Times: 1
+	Query: "cumv 9885" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Phrynohyas venulosa" ; Times: 4
+	Query: "jamaica barbour" ; Times: 1
+	Query: "Bufonidae (marmoreus)" ; Times: 1
+	Query: "Pseudacris feriarum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "wright stateprovince:"Sonora" country:"Mexico" year >= 1925 year <= 1955" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "rana institutioncode:cumv (skeleton)" ; Times: 1
+	Query: "Bufo microscaphus Nevada" ; Times: 1
+	Query: "country:"GABON" tissue:1" ; Times: 1
+	Query: "Scaphiopus holbrookii stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufonidae (occidentalis)" ; Times: 1
+	Query: "Agalychnis annae" ; Times: 4
+	Query: "Gyrinophilus palleucus" ; Times: 4
+	Query: "Bufo occidentalis" ; Times: 1
+	Query: "Eurycea guttolineata stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "rana county:"Tulare" stateprovince:"California"" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: "Herp reptile amphibian stateprovince:"PENNSYLVANIA" country:"United States"" ; Times: 1
+	Query: "Pseudacris triseriata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "rana institutioncode:CUMV" ; Times: 1
+	Query: "augusti" ; Times: 1
+	Query: "bufonidae institutioncode:cumv (dry)" ; Times: 1
+	Query: "cryptobranchus New York" ; Times: 6
+	Query: "rana areolata" ; Times: 2
+	Query: "Rana capito" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 2
+	Query: "county:"Macon" stateprovince:"Illinois" class:amphibia year <= 2015" ; Times: 1
+	Query: "jabillos" ; Times: 1
+	Query: "country:"GABON" class:Amphibia tissue:1" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "rana institutioncode:cumv" ; Times: 1
+	Query: "Bufo melanostictus Borneo" ; Times: 1
+	Query: "bufo canorus" ; Times: 2
+	Query: "rana institutioncode:cumv (dry)" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "Bufo alvarius AZ" ; Times: 1
+	Query: "amphibian amazon" ; Times: 1
+	Query: "Herp Pennsylvania" ; Times: 1
+	Query: "specificepithet:debilis tissue:1" ; Times: 2
+	Query: "Strecker Texas stateprovince:"Texas" country:"United States" year >= 1887 year <= 1950" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 2
+	Query: "Enfield county:"Tompkins" stateprovince:"New York"" ; Times: 2
+	Query: "Ambystoma cingulatum stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Amphibia mappable:1" ; Times: 1
+	Query: "cryptobranchus Pennsylvania" ; Times: 4
+	Query: "Acris crepitans stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 1524 download events in this period)
+Total number of records downloaded: 1722 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1458
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 24
+	Date: 2015-06-03 ; Times: 6
+	Date: 2015-06-04 ; Times: 14
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 4
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-12 ; Times: 3
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 5
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma opacum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Plethodon cinereus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Desmognathus ochrophaeus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:sylvatica genus:rana" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "dicamptodon stateprovince:"california"" ; Times: 1
+	Query: "Bufo californicus" ; Times: 1
+	Query: "rana aurora draytonii" ; Times: 1
+	Query: "pternohyla fodiens" ; Times: 1
+	Query: "country:"GABON" class:Amphibia tissue:1" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Bufonidae (holdridgei)" ; Times: 1
+	Query: "Bufonidae (marmoreus)" ; Times: 1
+	Query: "Pseudacris feriarum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Desmognathus fuscus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufo americanus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Eurycea longicauda stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo californicus" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "bufo microscaphus" ; Times: 1
+	Query: "agalychnis annae" ; Times: 1
+	Query: ""rhyacotriton olympicus" mappable:1" ; Times: 1
+	Query: "Rana clamitans stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "country:"GABON" tissue:1" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Plethodon wehrlei stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "Bufonidae (occidentalis)" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: ""taricha rivularis" mappable:1" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 1
+	Query: "Plethodon glutinosus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufo compactilis" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: ""taricha torosa" mappable:1" ; Times: 1
+	Query: "bufo nelsoni" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo retiformis" ; Times: 1
+	Query: "Dicamptodon stateprovince:"California"" ; Times: 1
+	Query: "Pseudacris triseriata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo exsul" ; Times: 1
+	Query: "Scaphiopus holbrookii stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "gyrinophilus pennsylvania mappable:1" ; Times: 1
+	Query: "Eleutherodactylus mexicanus" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Amphibia mappable:1" ; Times: 1
+	Query: "Acris crepitans stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:maculosus genus:necturus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo hemiophrys" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "Rana palustris stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:"Pennsylvania" mappable:1" ; Times: 2
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Rana sylvatica stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "stateprovince:"california" genus:dicamptodon" ; Times: 1
+	Query: "Gyrinophilus porphyriticus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Bufonidae (valliceps)" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "herp stateprovince:"PENNSYLVANIA" country:"United States" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 697
+Total number of records retrieved from searches: 7956
+Number of download events that retrieved data from the resource: 233
+Total number of records downloaded: 28559
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 783
+Total number of records retrieved from searches: 8793
+Number of download events that retrieved data from the resource: 428
+Total number of records downloaded: 42648
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
