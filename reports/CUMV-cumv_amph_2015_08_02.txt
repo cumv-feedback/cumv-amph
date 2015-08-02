@@ -1,0 +1,264 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 816
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 27
+	Country: United States ; Times: 136
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 6
+	Date: 2015-07-02 ; Times: 10
+	Date: 2015-07-03 ; Times: 3
+	Date: 2015-07-04 ; Times: 5
+	Date: 2015-07-06 ; Times: 29
+	Date: 2015-07-07 ; Times: 4
+	Date: 2015-07-08 ; Times: 8
+	Date: 2015-07-09 ; Times: 11
+	Date: 2015-07-10 ; Times: 4
+	Date: 2015-07-11 ; Times: 5
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 12
+	Date: 2015-07-16 ; Times: 9
+	Date: 2015-07-17 ; Times: 3
+	Date: 2015-07-18 ; Times: 8
+	Date: 2015-07-19 ; Times: 5
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-22 ; Times: 3
+	Date: 2015-07-23 ; Times: 5
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-26 ; Times: 4
+	Date: 2015-07-27 ; Times: 11
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:sylvatica genus:rana" ; Times: 2
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "Necturus type:specimen (louisiana)" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Amphibia AND (NOT Pleurodema)" ; Times: 1
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "georeference data" ; Times: 2
+	Query: "distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 1
+	Query: "Necturus type:specimen (texas)" ; Times: 2
+	Query: "Conecuh National Forest country:"United States" class:Amphibia" ; Times: 1
+	Query: "Hyla stateprovince:"veracruz"" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "University of Michigan" ; Times: 1
+	Query: "cryptobranchus alleganiensis bishopi" ; Times: 1
+	Query: "Ensatina county:"Tulare"" ; Times: 3
+	Query: "distance(location,geopoint(47.724544549099676,-82.24365234375))<275959" ; Times: 1
+	Query: "Cornell University Herpetology Collection" ; Times: 1
+	Query: "Eleutherodactylus augusti" ; Times: 2
+	Query: "Necturus type:specimen (alabama)" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "5851" ; Times: 1
+	Query: "Conecuh National Forest country:"United States"" ; Times: 1
+	Query: "amphibia mount mitchell north carolina" ; Times: 2
+	Query: "stateprovince:"Tennessee"" ; Times: 1
+	Query: "eurycea quadridigitata" ; Times: 1
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:sylvatica genus:rana" ; Times: 1
+	Query: "Phrynohyas stateprovince:"veracruz"" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 2
+	Query: ""Bufo microscaphus" stateprovince:"Arizona" year <= 2015" ; Times: 3
+	Query: "Cryptobranchus alleganiensis stateprovince:"Pennsylvania" country:"United States" year >= 1950 year <= 2015" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:maculosus genus:necturus" ; Times: 1
+	Query: "bufo type:specimen mappable:1 tissue:1" ; Times: 2
+	Query: "gyrinophilus national forest" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "Coluber constrictor stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "eleutherodactylus (haiti OR puerto rico OR dominican)" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:"Indiana" country:"United States"" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Amphibia" ; Times: 2
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 3
+	Query: "cryptobranchus north carolina buncombe" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides year >= 1950 year <= 2013" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Eleutherodactylus coqui year >= 1974 year <= 2013" ; Times: 1
+	Query: "county:"Inyo" specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "stateprovince:"mexico" AND (not bufo)" ; Times: 3
+	Query: "county:"Clinton" stateprovince:"Illinois"" ; Times: 1
+	Query: "county:"Columbia" specificepithet:fuscus" ; Times: 1
+	Query: "Eleutherodactylus oaxaca" ; Times: 1
+	Query: "smilisca stateprovince:"Veracruz"" ; Times: 2
+	Query: "Plethodon wehrlei county:"Indiana" stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Eleutherodactylus coqui year >= 1969 year <= 2013" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "Eleutherodactylus coqui year >= 1967 year <= 2013" ; Times: 1
+	Query: "Pseudotriton ruber vioscai" ; Times: 1
+	Query: "stateprovince:"michigan" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "distance(location,geopoint(44.402391829093915,-83.7158203125))<100000" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "Gastrophryne stateprovince:"Veracruz"" ; Times: 1
+	Query: "Hemidactylium" ; Times: 2
+	Query: "catalognumber:659 institutioncode:cumv" ; Times: 1
+	Query: "stateprovince:"texas" genus:Hypopachus" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:"Tennessee" country:"United States"" ; Times: 1
+	Query: "county:"Tulare" class:amphibia year >= 1950 year <= 1970" ; Times: 1
+	Query: "county:"Natchitoches" stateprovince:"Louisiana" year <= 2015" ; Times: 1
+	Query: "stateprovince:"mexico"" ; Times: 1
+	Query: "county:"Calhoun" stateprovince:"alabama" class:amphibia year <= 2015" ; Times: 1
+	Query: "type:specimen (bufonidae OR Rhinella OR Atelopus) tissue:1" ; Times: 1
+	Query: "aneides hardii" ; Times: 15
+	Query: "catalognumber:500" ; Times: 1
+	Query: "Smilisca stateprovince:"veracruz"" ; Times: 1
+	Query: "Ambystoma cingulatum country:"United States"" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "Rana county:"inyo"" ; Times: 1
+	Query: "county:"jeff Davis" stateprovince:"Texas" class:amphibia year <= 2015" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 8
+	Query: "Ambystoma opacum stateprovince:"Alabama" country:"United States" year >= 1950 year <= 2015" ; Times: 1
+	Query: "Eleutherodactylus coqui year >= 1900 year <= 2013" ; Times: 1
+	Query: "Amphibia Mexico" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:"Alabama" country:"United States"" ; Times: 1
+	Query: "Plethodon vandykei idahoensis" ; Times: 1
+	Query: "CUMV 15567 type:specimen" ; Times: 1
+	Query: "siren" ; Times: 1
+	Query: "Necturus maculosus type:specimen country:"United States" year >= 1900 year <= 2015" ; Times: 4
+	Query: "amphiuma" ; Times: 3
+	Query: "Eleutherodactylus antillensis year >= 1976 year <= 2013" ; Times: 1
+	Query: "county:"Sullivan" stateprovince:"Pennsylvania" specificepithet:fuscus" ; Times: 1
+	Query: "Bufo stateprovince:"Veracruz"" ; Times: 14
+	Query: "san juan county utah" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "county:"Tulare" class:amphibia year >= 1800 year <= 1950" ; Times: 2
+	Query: "Amphibia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "county:"Marion" stateprovince:"Alabama" country:"United States" class:Amphibia" ; Times: 1
+	Query: "Ambystoma cingulatum stateprovince:"Georgia" country:"United States"" ; Times: 1
+	Query: "Eleutherodactylus coqui year >= 1950 year <= 2013" ; Times: 1
+	Query: "Rana areolata year >= 1900 year <= 2013" ; Times: 3
+	Query: "Hypopachus" ; Times: 1
+	Query: "conecuh national forest" ; Times: 1
+	Query: "distance(location,geopoint(34.84566740615598,-82.42968767881393))<40783" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 1
+	Query: "MUSEUM OF UTAH" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Anotheca stateprovince:"veracruz"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1084 download events in this period)
+Total number of records downloaded: 3594 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2613
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: United Arab Emirates ; Times: 1
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 4
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon serratus" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" ) tissue:1" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "ambystoma south dakota" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Rana maculata year >= 1900 year <= 2013" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: ""Bufo microscaphus" stateprovince:"Arizona" year <= 2015" ; Times: 2
+	Query: "cingulatum" ; Times: 1
+	Query: "Leptopelis tissue:1" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Eleutherodactylus abbotti year >= 1976 year <= 2013" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Eleutherodactylus antillensis year >= 1976 year <= 2013" ; Times: 1
+	Query: "Rana warszewitschii year >= 1900 year <= 2013" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "aneides aeneus" ; Times: 2
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Rana onca year >= 1900 year <= 2013" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "cryptobranchus alleganiensis bishopi" ; Times: 1
+	Query: "Amphibia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia mappable:1" ; Times: 1
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides year >= 1950 year <= 2013" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "plethodon nettingi" ; Times: 2
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Rana areolata year >= 1900 year <= 2013" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "stateprovince:"mexico" AND (not bufo)" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "type:specimen (bufonidae OR Rhinella OR Atelopus) tissue:1" ; Times: 1
+	Query: "aneides hardii" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 868
+Total number of records retrieved from searches: 8772
+Number of download events that retrieved data from the resource: 292
+Total number of records downloaded: 32153
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 954
+Total number of records retrieved from searches: 9609
+Number of download events that retrieved data from the resource: 487
+Total number of records downloaded: 46242
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
