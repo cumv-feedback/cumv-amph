@@ -1,0 +1,175 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 1097
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 85
+	Country: Germany ; Times: 2
+	Country: Dominican Republic ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-15 ; Times: 5
+	Date: 2015-10-12 ; Times: 4
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 8
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 2
+	Date: 2015-10-07 ; Times: 9
+	Date: 2015-10-06 ; Times: 6
+	Date: 2015-10-03 ; Times: 4
+	Date: 2015-10-02 ; Times: 4
+	Date: 2015-10-09 ; Times: 7
+	Date: 2015-10-30 ; Times: 10
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "iptrecordid:&#34;urn:occurrence:Arctos:CUMV:Amph:10008:2243441&#34;" ; Times: 2
+	Query: "Tribolonotus institutioncode:CUMV" ; Times: 1
+	Query: "class:Amphibia distance(location,geopoint(25.537485071759033,-102.4639892578125))&lt;32687" ; Times: 1
+	Query: "Angola Amphibian" ; Times: 1
+	Query: "pseudobranchus striatus" ; Times: 1
+	Query: "eleutherodactylus antillensis" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Necturus maculosus west virginia" ; Times: 1
+	Query: "desmognathus quadramaculatus north carolina" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 6
+	Query: "tennessee" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 2
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "specificepithet:cinerea genus:hyla stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "(bufo canorus) mappable:1" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 3
+	Query: "genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+	Query: "Rana montezumae" ; Times: 1
+	Query: "Rana berlandieri MEXICO" ; Times: 1
+	Query: "ambystoma maculatum wisconsin" ; Times: 1
+	Query: "Hypsiboas heilprini" ; Times: 1
+	Query: "Desmognathus chermocki" ; Times: 2
+	Query: "schencki specificepithet:ruber genus:Pseudotriton" ; Times: 2
+	Query: "ambystoma distance(location,geopoint(35.1154153142536,-85.05889892578125))&lt;76718" ; Times: 1
+	Query: "eurycea guttolineata stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Pennsylvania&#34;" ; Times: 4
+	Query: "specificepithet:sphenocephala genus:rana stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "amphibia year &gt;= 1990 year &lt;= 2015 distance(location,geopoint(8.917633696396082,-84.4354248046875))&lt;100000" ; Times: 1
+	Query: "Hemidactylium scutatum stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1945 year &lt;= 2015" ; Times: 1
+	Query: "Hidalgo County" ; Times: 2
+	Query: "eleutherodactylus wightmanae" ; Times: 5
+	Query: "genus:Anolis mappable:1 island:Grand Cayman" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Aneides aeneus Georgia" ; Times: 2
+	Query: "eleutherodactylus" ; Times: 2
+	Query: "genus:gastrophryne stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Rana arizona" ; Times: 2
+	Query: "Anotheca" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo country:MEXICO" ; Times: 1
+	Query: "acris (cleared)" ; Times: 2
+	Query: "vibicaria" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 2
+	Query: "country:&#34;Indonesia&#34; year &gt;= 1880 year &lt;= 1886" ; Times: 2
+	Query: "Rana areolata" ; Times: 2
+	Query: "pseudobranchus striatus striatus" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "Bufo microscaphus arizona" ; Times: 1
+	Query: "cumv 15205" ; Times: 1
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "anura institutioncode:CUMV" ; Times: 1
+	Query: "cryptobranchus" ; Times: 6
+	Query: "Eurycea class:Amphibia county:&#34;Cumberland&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 4
+	Query: "Bradley" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "pseudotriton montanus south carolina" ; Times: 1
+	Query: "amphibian" ; Times: 3
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "media" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "hypsiboas heilprini" ; Times: 2
+	Query: "Hyperolius phantasticus CUMV" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 823 download events in this period)
+Total number of records downloaded: 2907
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "eleutherodactylus antillensis" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Desmognathus aeneus" ; Times: 2
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "schencki specificepithet:ruber genus:Pseudotriton" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "(Rana pipiens) canada mappable:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "type:specimen class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+
+
+End of report.
