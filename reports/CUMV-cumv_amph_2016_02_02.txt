@@ -1,0 +1,190 @@
+Report for Institution Code CUMV, Resource Amphibian specimens
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 665
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 69
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 8
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 5
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 4
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-15 ; Times: 5
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-20 ; Times: 8
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 4
+	Date: 2016-01-26 ; Times: 6
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma jeffersonianum" ; Times: 2
+	Query: "Bufo Mexico locality:Mexico" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:"ohio"" ; Times: 2
+	Query: "county:"Hunterdon" (Caudata)" ; Times: 1
+	Query: "cumv 837" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "type:specimen genus:cryptobranchus county:"susquehanna" stateprovince:"pennsylvania"" ; Times: 1
+	Query: "cumv" ; Times: 1
+	Query: "cumv 854" ; Times: 1
+	Query: "class:amphibia stateprovince:"oklahoma" distance(location,geopoint(35.496456056584165,-97.5091552734375))<21302" ; Times: 1
+	Query: "eq" ; Times: 1
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "Agalychnis callidryas CUMV" ; Times: 1
+	Query: "Necturus punctatus stateprovince:"Georgia"" ; Times: 1
+	Query: "university of texas" ; Times: 1
+	Query: "Bufo Mexico AND ("new mexico")" ; Times: 1
+	Query: "Batrachoseps wrightorum stateprovince:"Oregon"" ; Times: 2
+	Query: "Chiropterotriton chiropterus stateprovince:"veracruz"" ; Times: 1
+	Query: "stateprovince:"michigan"" ; Times: 2
+	Query: "cumv 1260" ; Times: 1
+	Query: "cumv 712" ; Times: 1
+	Query: "institutioncode:cumv" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "Stereochilus marginatus stateprovince:"South Carolina"" ; Times: 1
+	Query: "bufo canorus mappable:1" ; Times: 3
+	Query: "Lake Michigan" ; Times: 1
+	Query: "cumv 720" ; Times: 1
+	Query: "Batrachoseps wrightorum" ; Times: 2
+	Query: "Batrachoseps wrighti stateprovince:"Oregon"" ; Times: 2
+	Query: "Dicamptodon ensatus stateprovince:"Oregon"" ; Times: 1
+	Query: "Loding" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 2
+	Query: "class:Amphibia county:"Abbeville" stateprovince:"South Carolina" country:"United States"" ; Times: 1
+	Query: "county:"Hunterdon" (Eurycea)" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:coqui" ; Times: 2
+	Query: "Hyla andersonii" ; Times: 2
+	Query: "vibicaria" ; Times: 1
+	Query: "cumv 397" ; Times: 1
+	Query: "connecticut" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:"Chesterfield" stateprovince:"South Carolina" country:"United States"" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Xenopus tissue:1" ; Times: 2
+	Query: "eleutherodactylus cooki" ; Times: 1
+	Query: "505 county:"Jeff Davis"" ; Times: 1
+	Query: "Gastrophryne elegans stateprovince:"veracruz"" ; Times: 1
+	Query: "ambystoma texanum louisiana" ; Times: 2
+	Query: "type:specimen genus:cryptobranchus stateprovince:"pennsylvania"" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:"North Carolina"" ; Times: 1
+	Query: "Asteraceae specimen" ; Times: 1
+	Query: "amphibia stateprovince:"newfoundland"" ; Times: 1
+	Query: "axolotl mexicanum" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 1
+	Query: "cumv 728" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: ""spea" type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "genus:desmognathus county:"union"" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "stateprovince:"New Jersey" (Gyrinophilus)" ; Times: 1
+	Query: "genus:plethodon distance(location,geopoint(34.94899072578227,-83.0181884765625))<100000" ; Times: 1
+	Query: "Necturus punctatus stateprovince:"South Carolina"" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:"Mississippi"" ; Times: 1
+	Query: "class:Amphibia county:"Anderson" stateprovince:"South Carolina" country:"United States"" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 507 download events in this period)
+Total number of records downloaded: 19124 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4771
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "country:"United States"" ; Times: 2
+	Query: "Bufo californicus" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Alberta" ; Times: 1
+	Query: "genus:Plethodon class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Agalychnis callidryas CUMV" ; Times: 1
+	Query: "genus:Rana class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "genus:Batrachoseps class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Necturus maculosus stateprovince:"North Carolina"" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "genus:Rhyacotriton class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))<19662" ; Times: 1
+	Query: "genus:Ensatina class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 19124
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 79
+Total number of records retrieved from searches: 665
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 19124
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
