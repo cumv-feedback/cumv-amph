@@ -1,0 +1,93 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 144
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Anotheca spinosa" ; Times: 1
+	Query: "plethodon glutinosus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 2
+	Query: "telmatobius jelskii" ; Times: 1
+	Query: "&#34;Bufo microscaphus&#34; Arizona" ; Times: 1
+	Query: "(plethodontidae) institutioncode:CUMV" ; Times: 1
+	Query: "Cubahatchee" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "Santa Cruz Island California" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:clarkii" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "Bufo nelsoni" ; Times: 2
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gastrophryne elegans stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "bufo punctatus inyo county" ; Times: 1
+	Query: "Rainier class:Amphibia county:&#34;Lewis&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Euphlyctis specificepithet:hexadactylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 230 download events in this period)
+Total number of records downloaded: 41309
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "(plethodontidae) institutioncode:CUMV" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Rainier class:amphibia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "Rainier class:Amphibia county:&#34;Lewis&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
