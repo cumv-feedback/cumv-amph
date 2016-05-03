@@ -1,0 +1,218 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 173
+Number of records retrieved in searches: 1213
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 42
+	Country: Brazil ; Times: 1
+	Country: Czech Republic ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 24
+	Country: United States ; Times: 89
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 12
+	Date: 2016-04-28 ; Times: 6
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 8
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 9
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-09 ; Times: 7
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 22
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-14 ; Times: 9
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 22
+	Date: 2016-04-12 ; Times: 19
+	Date: 2016-04-13 ; Times: 7
+	Date: 2016-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "dickey" ; Times: 1
+	Query: "Gastrophryne carolinensis stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.657516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "arctos" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Bufo fowleri stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;oklahoma&#34; institutioncode:CUMV" ; Times: 1
+	Query: "CUMV 12925" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "cryptobranchus bishopi" ; Times: 2
+	Query: "genus:Siren" ; Times: 1
+	Query: "specificepithet:mavortium genus:Ambystoma" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "acris gryllus alabama" ; Times: 1
+	Query: "Pseudacris brachyphona Virginia" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.387516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "genus:siren" ; Times: 2
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "ONTARIO 1" ; Times: 16
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;38386" ; Times: 1
+	Query: "genus:Rana specificepithet:virgatipes" ; Times: 1
+	Query: "specificepithet:cognatus genus:bufo stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:neotenes genus:Eurycea county:&#34;bexar&#34;" ; Times: 2
+	Query: "specificepithet:annulatum genus:ambystoma" ; Times: 2
+	Query: "family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "Pseudacris feriarum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "1874-08-24" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.80478291957245,-82.8753662109375))&lt;38385.64878672652" ; Times: 1
+	Query: "michigan year &gt;= 1912 year &lt;= 1928" ; Times: 2
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pseudotriton montanus distance(location,geopoint(38.237317252103296,-82.33154296875))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 4
+	Query: "A-473" ; Times: 2
+	Query: "necturus pennsylvania" ; Times: 2
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "CUMV 13267" ; Times: 2
+	Query: "rana tarahumarae" ; Times: 4
+	Query: "distance(location,geopoint(31.979036,-106.047516))&lt;15000" ; Times: 1
+	Query: "Scaphiopus holbrookii stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Acris crepitans stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "Pseudotriton distance(location,geopoint(38.237317252103296,-82.33154296875))&lt;100000" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "11221" ; Times: 1
+	Query: "amphibian and california" ; Times: 1
+	Query: "Cryptobranchus alleganiensis alleganiensis" ; Times: 1
+	Query: "ontario" ; Times: 4
+	Query: "genus:Desmognathus county:&#34;Nassau&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.127516))&lt;15000" ; Times: 1
+	Query: "EURYCEA GUTTOLINEATA ALABAMA" ; Times: 2
+	Query: "cryptobranchus blair" ; Times: 1
+	Query: "5363 cumv" ; Times: 1
+	Query: "sirenidae" ; Times: 1
+	Query: "distance(location,geopoint(30.449036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Island AND 1915" ; Times: 1
+	Query: "genus:Aneides specificepithet:lugubris" ; Times: 2
+	Query: "specificepithet:crucifer stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Rana sphenocephala stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Desmognathus fuscus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.977516))&lt;15000" ; Times: 1
+	Query: "anotheca" ; Times: 1
+	Query: "specificepithet:palleucus" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.88593094075317,-80.068359375))&lt;100000" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;100000" ; Times: 1
+	Query: "Aneides aeneus (Alabama OR AL OR alabama OR Al OR al)" ; Times: 1
+	Query: "Desmognathus monticola stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.367516))&lt;15000" ; Times: 1
+	Query: "CUMV AND Island" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-112.847516))&lt;15000" ; Times: 1
+	Query: "university of puerto rico" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "distance(location,geopoint(27.049036,-109.107516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Tigrinum stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "lodingi (lodingi)" ; Times: 1
+	Query: "siren" ; Times: 4
+	Query: "1 ONTARIO 1" ; Times: 3
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "CUMV AND Santa Cruz Island" ; Times: 1
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "CUMV AND Santa Rosa Island" ; Times: 1
+	Query: "Cryptobranchus Pennsylvania Bishop" ; Times: 1
+	Query: "type:specimen specificepithet:opacum genus:Ambystoma stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ONTARIO" ; Times: 16
+	Query: "distance(location,geopoint(31.299036,-105.537516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "lodingi" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.977516))&lt;15000" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.387516))&lt;15000" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 4
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;New York&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1312 download events in this period)
+Total number of records downloaded: 14196
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-27 ; Times: 5
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 5
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Aneides aeneus Virginia" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "family:plethodontidae institutioncode:CUMV" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "hoplobatrachus tigerinus" ; Times: 3
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Plethodon metcalfi mappable:1" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "amphibian indonesia" ; Times: 1
+	Query: "thorius" ; Times: 1
+	Query: "Plethodon jordani year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Plethodon metcalfi year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "rana tarahumarae" ; Times: 2
+
+
+End of report.
