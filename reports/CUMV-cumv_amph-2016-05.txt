@@ -1,0 +1,116 @@
+Report for Institution Code CUMV, Resource cumv_amph
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 144
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Croatia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 3
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 5
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "CUMV 14928" ; Times: 2
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "university of michigan" ; Times: 1
+	Query: "CUMV 14927" ; Times: 1
+	Query: "virgatipes" ; Times: 1
+	Query: "John Dixon" ; Times: 1
+	Query: "Organ Cave" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "family:Viperidae county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Virgatipes stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "Pseudotriton ruber ruber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Plethodon metcalfi stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:guttolineata genus:Eurycea stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ambystoma opacum stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "catalognumber:15169 institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "genus:Siren specificepithet:lacertina" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Lithobates pipiens west virginia" ; Times: 1
+	Query: "class:Amphibia county:&#34;Duplin&#34;" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Gyrinophilus porphyriticus county:&#34;Buncombe&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Anguis" ; Times: 1
+	Query: "Organ Cave order:Caudata class:Amphibia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 327 download events in this period)
+Total number of records downloaded: 2586
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-31 ; Times: 3
+	Date: 2016-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "phyllomedusa tarsius" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "class:amphibia" ; Times: 3
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+
+
+End of report.
